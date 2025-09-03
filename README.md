@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Ana Júlia Furtado
 
-**`Desenvolvedora FullStack`** **`Desenvolvedora FullStack`**
+**`Desenvolvedora FullStack`** **`Cientista de Dados`**
 
 Me chamo Ana Júlia Furtado, tenho 23 anos e sou de São José dos Campos.  Atualmente, estou cursando Ciência da Computação na UNIFESP. Sou apaixonada por tecnologia
 
