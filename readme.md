@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`** **`Cientista de Dados`**
 
-Me chamo Ana Júlia Furtado, tenho 23 anos e sou de São José dos Campos.  Atualmente, estou cursando Ciência da Computação na UNIFESP, com forte base em desenvolvimento de software, raciocínio lógico e análise de dados. Tenho perfil empreendedor, gosto de desafios e sou movida pela curiosidade e pela paixão em aprender constantemente. Atuo com energia e iniciativa, buscando aplicar o conhecimento técnico em soluções criativas, eficientes e que impulsionem novos modelos de negócios.
+Me chamo Ana Júlia Furtado, tenho 23 anos e sou de São José dos Campos.  Atualmente, estou cursando Ciência da Computação na UNIFESP, com forte base em desenvolvimento de software, raciocínio lógico e ciência de dados. Tenho perfil empreendedor, gosto de desafios e sou movida pela curiosidade e pela paixão em aprender constantemente. Atuo com energia e iniciativa, buscando aplicar o conhecimento técnico em soluções criativas, eficientes e que impulsionem novos modelos de negócios.
 
 
 ### 🤖 Linguagens e Tecnologias
